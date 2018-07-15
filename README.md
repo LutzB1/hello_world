@@ -1,2 +1,2 @@
 # hello_world
-my first github repository  1st brannch
+my first github repository  1st branch
